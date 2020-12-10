@@ -1,2 +1,1 @@
-# cat-rep
 Catalog Report
